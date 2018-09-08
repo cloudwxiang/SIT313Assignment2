@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment2.SignUp">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="StartAndExpand">
+            <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                <Image Source="bookstore.png" VerticalOptions="Center" HeightRequest="64" />
+            </ContentView>
+            <Label Text="Username" />
+            <Entry x:Name="usernameEntry" Placeholder="username" />
+            <Label Text="Password" />
+            <Entry x:Name="passwordEntry" IsPassword="true" />
+            <Label Text="Email address" />
+            <Entry x:Name="emailEntry" />
+            <Button Text="Sign Up" Clicked="OnSignUpButtonClicked"  BackgroundColor="LightBlue"/>
+            <Label x:Name="messageLabel" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
