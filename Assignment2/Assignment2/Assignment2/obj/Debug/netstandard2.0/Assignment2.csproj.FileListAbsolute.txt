@@ -12,3 +12,17 @@ C:\Users\Cloud\Desktop\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard
 C:\Users\Cloud\Desktop\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Cloud\Desktop\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.dll
 C:\Users\Cloud\Desktop\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.pdb
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\Assignment2.deps.json
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\Assignment2.dll
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\Assignment2.pdb
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csprojAssemblyReference.cache
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Login.xaml.g.cs
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\SignUp.xaml.g.cs
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfoInputs.cache
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfo.cs
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.dll
+D:\github\SIT313Assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.pdb

@@ -1,0 +1,2 @@
+D:\visual studio\Common7\IDE\Extensions\Xamarin.VisualStudio\Xamarin.Inspector.Windows\Agents\Android\Xamarin.Interactive.dll
+D:\visual studio\Common7\IDE\Extensions\Xamarin.VisualStudio\Xamarin.Inspector.Windows\Agents\Android\Xamarin.Interactive.Android.dll

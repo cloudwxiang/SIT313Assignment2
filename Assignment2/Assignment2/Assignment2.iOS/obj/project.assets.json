@@ -717,20 +717,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cloud\\.nuget\\packages\\": {}
+    "C:\\Users\\Bleve\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2.iOS\\Assignment2.iOS.csproj",
+      "projectUniqueName": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2.iOS\\Assignment2.iOS.csproj",
       "projectName": "Assignment2.iOS",
-      "projectPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2.iOS\\Assignment2.iOS.csproj",
-      "packagesPath": "C:\\Users\\Cloud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2.iOS\\obj\\",
+      "projectPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2.iOS\\Assignment2.iOS.csproj",
+      "packagesPath": "C:\\Users\\Bleve\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Cloud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bleve\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -743,8 +743,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
-              "projectPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj"
+            "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
+              "projectPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj"
             }
           }
         }

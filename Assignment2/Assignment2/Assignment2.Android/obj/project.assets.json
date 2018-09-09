@@ -779,20 +779,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cloud\\.nuget\\packages\\": {}
+    "C:\\Users\\Bleve\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2.Android\\Assignment2.Android.csproj",
+      "projectUniqueName": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2.Android\\Assignment2.Android.csproj",
       "projectName": "Assignment2.Android",
-      "projectPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2.Android\\Assignment2.Android.csproj",
-      "packagesPath": "C:\\Users\\Cloud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2.Android\\obj\\",
+      "projectPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2.Android\\Assignment2.Android.csproj",
+      "packagesPath": "C:\\Users\\Bleve\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Cloud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bleve\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -805,8 +805,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
-              "projectPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj"
+            "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
+              "projectPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj"
             }
           }
         }

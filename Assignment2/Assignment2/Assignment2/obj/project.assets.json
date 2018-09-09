@@ -343,23 +343,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cloud\\.nuget\\packages\\": {},
+    "C:\\Users\\Bleve\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+      "projectUniqueName": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
       "projectName": "Assignment2",
-      "projectPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
-      "packagesPath": "C:\\Users\\Cloud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cloud\\Desktop\\Assignment2\\Assignment2\\Assignment2\\obj\\",
+      "projectPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+      "packagesPath": "C:\\Users\\Bleve\\.nuget\\packages\\",
+      "outputPath": "D:\\github\\SIT313Assignment2\\Assignment2\\Assignment2\\Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Cloud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bleve\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
