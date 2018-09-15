@@ -19,7 +19,7 @@ namespace Assignment2.ViewModels
             {
                 Source = ImageSource.FromFile("check.png"),
             };
-            tick.SetBinding(VisualElement.IsVisibleProperty, "Done");
+            tick.SetBinding(VisualElement.IsVisibleProperty, "Switch to Mark as your favorite");
 
             var layout = new StackLayout
             {

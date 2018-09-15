@@ -3,10 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Assignment2.Views.BookShelfListPage"
              xmlns:local="clr-namespace:Assignment2.Views" 
-             Title="{local:Translate ApplicationTitle}" 
+             Title="My Book Shelf" 
              FlowDirection="{x:Static Device.FlowDirection}">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="+" Icon="plus.png" Clicked="OnItemAdded" />
+        <ToolbarItem Text="New" Clicked="OnItemAdded" />
+        <ToolbarItem Text="LogOut" Clicked="OnLogOutButtonClicked" />
     </ContentPage.ToolbarItems>
     <ListView x:Name="listView" Margin="20" ItemSelected="OnListItemSelected">
         <ListView.ItemTemplate>

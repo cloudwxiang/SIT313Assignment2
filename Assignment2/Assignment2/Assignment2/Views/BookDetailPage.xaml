@@ -4,11 +4,11 @@
              x:Class="Assignment2.Views.BookDetailPage">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="LogOut" Clicked="OnLogOutButtonClicked" />
-        <ToolbarItem Text="Save" Clicked="Save_Clicked"/>
+        <ToolbarItem Text="MyBook" Clicked="Save_Clicked"/>
     </ContentPage.ToolbarItems>
 
     <StackLayout Spacing="20" Padding="15">
-        <Label Text="Text:" FontSize="Medium" />
+        <Label Text="Book Name:" FontSize="Medium" />
         <Label Text="{Binding Item.Text}" FontSize="Small"/>
         <Label Text="Description:" FontSize="Medium" />
         <Label Text="{Binding Item.Description}" FontSize="Small"/>

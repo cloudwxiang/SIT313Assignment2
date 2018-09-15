@@ -10,7 +10,7 @@
         <Entry Text="{Binding Path=Name}" />
         <Label Text="{local:Translate NotesLabel}" />
         <Entry Text="{Binding Path=Notes}" />
-        <Label Text="{local:Translate DoneLabel}" />
+        <Label Text="{local:Translate DoneLabel}"/>
         <Switch IsToggled="{Binding Path=Done}" />
         <Button Text="{local:Translate SaveButton}" Clicked="OnSave" />
         <Button Text="{local:Translate DeleteButton}" Clicked="OnDelete" />
