@@ -1,6 +1,9 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Assignment2.Views;
+using Assignment2.Data;
+using System.IO;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Assignment2
@@ -8,7 +11,7 @@ namespace Assignment2
     public partial class App : Application
     {
         public static bool IsUserLoggedIn { get; set; }
-
+        static ItemDatabase database;
         public App()
         {
             if (!IsUserLoggedIn)
@@ -17,9 +20,23 @@ namespace Assignment2
             }
             else
             {
-                MainPage = new NavigationPage(new Assignment2.MainPage());
+                MainPage = new NavigationPage(new Assignment2.Views.BookStore());
             }
         }
+
+        public static ItemDatabase Database
+        {
+            get
+            {
+                if (database == null)
+                {
+                    database = new ItemDatabase();
+                }
+                return database;
+            }
+        }
+
+        public int ResumeAtId { get; set; }
 
         protected override void OnStart()
         {

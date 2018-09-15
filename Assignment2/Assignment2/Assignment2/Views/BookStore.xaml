@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment2.Views.BookStore">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="LogOut" Clicked="OnLogOutButtonClicked" />
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="StartAndExpand" BackgroundColor="White">
+            <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                <Image Source="bookstorex3.png" VerticalOptions="CenterAndExpand" HeightRequest="64" />
+            </ContentView>
+            <Button Text="Books" Clicked="OnBooksButtonClicked" BackgroundColor="RosyBrown"/>
+            <Button Text="MyBookShelf" Clicked="OnMyBookShelfButtonClicked" BackgroundColor="RosyBrown"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Xamarin.Forms;
 
 namespace Assignment2.iOS
 {
@@ -22,7 +23,9 @@ namespace Assignment2.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            global::Xamarin.Forms.Forms.Init();
+            UISwitch.Appearance.OnTintColor = UIColor.FromRGB(0x91, 0xCA, 0x47);
+
+            Forms.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
