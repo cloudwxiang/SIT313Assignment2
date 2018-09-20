@@ -1,4 +1,4 @@
-# SIT313Assignment2
+# SIT313Assignment2 Group 26
 Group Assignment
 SIT313 Assignment 2
 This Assignment is a group assignment
