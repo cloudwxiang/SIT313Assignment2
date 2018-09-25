@@ -28,5 +28,11 @@ namespace Assignment2.Views
         {
             await Navigation.PushAsync(new BookShelfListPage());
         }
+        
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            var url = "https://moker-admin.com/api/test/words.php";
+            Device.OpenUri(new Uri(url));
+        }
     }
 }
