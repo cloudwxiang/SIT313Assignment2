@@ -30,15 +30,6 @@ namespace Assignment2.Views
             // Manually deselect item.
             ItemsListView.SelectedItem = null;
         }
-        
-        /*protected override async void OnAppearing()
-        {
-            base.OnAppearing();
-
-            // Reset the 'resume' id, since we just want to re-start here
-            ((App)App.Current).ResumeAtTodoId = -1;
-            listView.ItemsSource = await App.Database.GetItemsAsync();
-        }*/
 
         async void OnLogOutButtonClicked(object sender, EventArgs e)
         {
