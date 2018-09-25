@@ -13,6 +13,7 @@
             </ContentView>
             <Button Text="Books" Clicked="OnBooksButtonClicked" BackgroundColor="RosyBrown"/>
             <Button Text="MyBookShelf" Clicked="OnMyBookShelfButtonClicked" BackgroundColor="RosyBrown"/>
+            <Button Text="about" Clicked="Button_Clicked" BackgroundColor="RosyBrown"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
